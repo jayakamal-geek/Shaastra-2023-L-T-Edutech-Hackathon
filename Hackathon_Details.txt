@@ -53,3 +53,5 @@ Use open source dataset (From the link: https://cutt.ly/PS_3_dataset)
 Design transfer learning-based CNN architecture to classify the data set
 Identify an optimal training data size in percentage
 Judging Metrics: Provide kappa score as Judging metrics
+
+This Github Repository is a submission for problem staement 1 (PS1).
