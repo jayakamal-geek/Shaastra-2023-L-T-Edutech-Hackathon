@@ -1,0 +1,55 @@
+All that you need to know about L&T EduTech Hackathon at SHAASTRA IITM
+Submission Platform: Unstop
+
+Can you use Artificial Intelligence and Machine Learning to solve engineering problems with a direct impact on industry and society? Rise up to the challenge to win exciting prizes and showcase your skills to one of the largest multinational conglomerates!
+
+Problem Domain: AI Solutions for Industrial and Societal Problems 
+
+Team size: 1-3 members
+
+Model of Task: 2 Rounds
+
+Round 1 - Problem statements will be released and with judging metrics, batches will be shortlisted 
+Round 2 - The shortlisted batches will be invited to IIT Madras to make the final Presentation at Shaastra on Jan 29th, we will consider online presentations on a case-to-case basis.
+Round 1: Deadline Jan 17th 2023 11:59 PM (Unstop submission)
+
+Problem Statements:
+
+Solve any one of the 3 problem statements
+
+PS1 -
+
+Description - Concrete cracking is a major issue in Bridge Engineering. Detection of cracks facilitates the design, construction and maintenance of bridges effectively.
+
+Requirement Specification:
+
+Use open source dataset (From the link: https://cutt.ly/PS_1_dataset)
+Develop a suitable Deep Learning framework which can detect the crack in the image from the dataset
+Transfer Learning based DL framework would be appreciated
+Judging Metrics: Provide Precision, Recall and F1 score as Judging metrics
+
+PS2: 
+
+Description: Power outages in the power distribution systems are extremely expensive. Substation issues include
+
+Equipment repair and replacement
+Less system reliability
+Wildlife reach in the open areas of substations
+Here the solution aims at detecting the various objects of the substation for monitoring and maintenance purposes.
+
+ Requirement Specification
+
+Use the given dataset of images of objects of substation (dataset given from L&T)
+Develop a suitable deep learning-based framework for detecting the objects accurately
+Judging Metrics: Provide IoU (Intersection Over Union) score as judging metrics.
+
+PS3:
+
+Description: Natural disasters and atmospheric anomalies demand remote monitoring and maintenance of naval objects especially big-size ships. For example, under poor weather conditions, prior knowledge about the ship model and type helps the automatic docking system process to be smooth. Thus, this set aims to classify the type of ships from an image data set of ships.
+
+Requirement Specification:
+
+Use open source dataset (From the link: https://cutt.ly/PS_3_dataset)
+Design transfer learning-based CNN architecture to classify the data set
+Identify an optimal training data size in percentage
+Judging Metrics: Provide kappa score as Judging metrics
